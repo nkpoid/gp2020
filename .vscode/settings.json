@@ -1,0 +1,10 @@
+{
+  "files.associations": {
+    "ostream": "cpp"
+  },
+  "terminal.integrated.env.linux": {
+    "DISPLAY": ":0"
+  },
+  "C_Cpp.intelliSenseMemoryLimit": 8192,
+  "C_Cpp.clang_format_style": "Google"
+}
